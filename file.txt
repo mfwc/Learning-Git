@@ -1,2 +1,3 @@
 Git/Github Tutorial Assignment
 DATA 110 WC SLC, UT
+Department of Data Science
